@@ -1,22 +1,102 @@
 [
   {
-    "match": "Inter vs Juventus",
-    "date": "2026-08-23",
-    "home_team": "Inter",
-    "away_team": "Juventus",
-    "combined_xg": 3.10,
-    "over_25_probability": 0.65,
-    "market_signal": "OVER 2.5 CONSIGLIATO",
-    "motivation": "Derby d'Italia: medie xG delle ultime uscite superiori a 1.5 per entrambe."
+    "match": "Genoa vs Napoli",
+    "date": "2026-08-22",
+    "home_team": "Genoa",
+    "away_team": "Napoli",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
   },
   {
-    "match": "Milan vs Napoli",
+    "match": "Inter vs Monza",
+    "date": "2026-08-22",
+    "home_team": "Inter",
+    "away_team": "Monza",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Parma vs Cagliari",
+    "date": "2026-08-22",
+    "home_team": "Parma",
+    "away_team": "Cagliari",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Udinese vs Como",
+    "date": "2026-08-22",
+    "home_team": "Udinese",
+    "away_team": "Como",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Atalanta vs Sassuolo",
+    "date": "2026-08-23",
+    "home_team": "Atalanta",
+    "away_team": "Sassuolo",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Frosinone vs Juventus",
+    "date": "2026-08-23",
+    "home_team": "Frosinone",
+    "away_team": "Juventus",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Torino vs AC Milan",
+    "date": "2026-08-23",
+    "home_team": "Torino",
+    "away_team": "AC Milan",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Venezia vs Lecce",
+    "date": "2026-08-23",
+    "home_team": "Venezia",
+    "away_team": "Lecce",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Bologna vs Lazio",
     "date": "2026-08-24",
-    "home_team": "Milan",
-    "away_team": "Napoli",
-    "combined_xg": 2.95,
-    "over_25_probability": 0.58,
-    "market_signal": "STUDIO / 1X2 INCERTO",
-    "motivation": "Equilibrio tattico a centrocampo, tendenza recente all'Under 2.5."
+    "home_team": "Bologna",
+    "away_team": "Lazio",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
+  },
+  {
+    "match": "Roma vs Fiorentina",
+    "date": "2026-08-24",
+    "home_team": "Roma",
+    "away_team": "Fiorentina",
+    "combined_xg": 0.0,
+    "over_25_probability": 0.0,
+    "market_signal": "ATTESA INIZIO CAMPIONATO",
+    "motivation": "Dati non disponibili: il campionato inizia il 22/08."
   }
 ]
