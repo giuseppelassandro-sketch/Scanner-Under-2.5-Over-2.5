@@ -1,12 +1,22 @@
 [
   {
-    "match": "NomeCasa vs NomeOspiti",
-    "date": "2026-08-XX",
-    "home_team": "NomeCasa",
-    "away_team": "NomeOspiti",
-    "combined_xg": 2.85,
-    "over_25_probability": 0.62,
+    "match": "Inter vs Juventus",
+    "date": "2026-08-23",
+    "home_team": "Inter",
+    "away_team": "Juventus",
+    "combined_xg": 3.10,
+    "over_25_probability": 0.65,
     "market_signal": "OVER 2.5 CONSIGLIATO",
-    "motivation": "Motivazione basata su xG e dati di campo reali."
+    "motivation": "Derby d'Italia: medie xG delle ultime uscite superiori a 1.5 per entrambe."
+  },
+  {
+    "match": "Milan vs Napoli",
+    "date": "2026-08-24",
+    "home_team": "Milan",
+    "away_team": "Napoli",
+    "combined_xg": 2.95,
+    "over_25_probability": 0.58,
+    "market_signal": "STUDIO / 1X2 INCERTO",
+    "motivation": "Equilibrio tattico a centrocampo, tendenza recente all'Under 2.5."
   }
 ]
