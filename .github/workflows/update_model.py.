@@ -1,18 +1,7 @@
 import json
 import os
-import soccerdata as sd
-import pandas as pd
 
-def fetch_and_analyze_serie_a():
-    print("Scaricamento dati reali...")
-    try:
-        understat = sd.Understat(leagues="ITA-Serie A", seasons=2026)
-        match_stats = understat.read_match_schedule()
-    except Exception as e:
-        print(f"Errore nel recupero dati: {e}")
-        match_stats = pd.DataFrame()
-
-    # Dati strutturati basati su riscontri reali di campo
+def generate_data():
     analyzed_matches = [
         {
             "match": "Atalanta vs Roma",
@@ -29,6 +18,7 @@ def fetch_and_analyze_serie_a():
     os.makedirs("data", exist_ok=True)
     with open("data/matches_analysis.json", "w", encoding="utf-8") as f:
         json.dump(analyzed_matches, f, ensure_ascii=False, indent=4)
+    print("File JSON generato con successo.")
 
 if __name__ == "__main__":
-    fetch_and_analyze_serie_a()
+    generate_data()
