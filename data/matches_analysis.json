@@ -1,0 +1,12 @@
+[
+  {
+    "match": "Atalanta vs Roma",
+    "date": "2026-08-15",
+    "home_team": "Atalanta",
+    "away_team": "Roma",
+    "combined_xg": 3.25,
+    "over_25_probability": 0.68,
+    "market_signal": "OVER 2.5 CONSIGLIATO",
+    "motivation": "Elevato volume di xG combinati e trend offensivo registrato nelle ultime uscite."
+  }
+]
